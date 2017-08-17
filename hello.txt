@@ -3,5 +3,3 @@ This is a new file added by Vinay.
 This is a line without a typo.
 
 Line for a pull request.
-
-This line was written by intern Vinay.
