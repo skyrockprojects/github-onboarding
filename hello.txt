@@ -1,11 +1,3 @@
 This is a new file added by Vinay.
 
-This is a line without a typ.
-
-Line for a pull request.
-
-Welcome._WenYang and Tony
-
-I am Vinay.
-
-This is going to be v1.3
+This is a line without a typo.
