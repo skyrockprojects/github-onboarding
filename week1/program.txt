@@ -7,3 +7,4 @@ Fancy code for week 1.
 
 --------------------------
 
+Here comes my improvised fancy code for week 1.

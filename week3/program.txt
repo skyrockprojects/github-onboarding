@@ -7,3 +7,6 @@ Fancy code for week 3.
 
 --------------------------
 
+Here is some fancy code I added to week 3.
+
+--------------------------
