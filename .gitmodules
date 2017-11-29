@@ -1,0 +1,3 @@
+[submodule "toc-creator"]
+	path = toc-creator
+	url = https://github.com/vinsis/toc-creator.git
